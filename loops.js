@@ -19,9 +19,13 @@ return "done"
 function doWhileLoop(num) {
   do {
     [loopBody];
-  } while ([condition]);
+  } while (incrementVariable());
 }
 
+function incrementVariable() {
+  i = i + 1;
+  return i;
+}
 
 // 1) loops
        doWhileLoop(num)
