@@ -19,7 +19,7 @@ return "done"
 function doWhileLoop(num) {
   do {
     [loopBody];
-    while
+  } while
 }
 
 
