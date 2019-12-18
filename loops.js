@@ -19,7 +19,7 @@ return "done"
 
 
 
-
+vari = 0
 
 function incrementVariable() {
   i = i + 1;
