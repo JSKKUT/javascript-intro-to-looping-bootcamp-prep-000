@@ -18,7 +18,8 @@ return "done"
 
 function doWhileLoop(num) {
   do {
-    [loopBody]while
+    [loopBody];
+    while
 }
 
 
