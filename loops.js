@@ -31,13 +31,3 @@ function doWhileLoop(num) {
     console.log("I run once regardless.");
   } while (incrementVariable() <= num);
 }
-
-// 1) loops
-       doWhileLoop(num)
-         console logs "I run once regardless." 1 time when passed an integer of0 as a parameter.:
-     ReferenceError: doWhileLoop is not defined
-// 2) loops
-       doWhileLoop(num)
-         console logs "I run once regardless." 10 times when passed an integer of 10 as a parameter.:
-     ReferenceError: doWhileLoop is not defined
-     
